@@ -1,0 +1,23 @@
+.nav{
+    margin: 25px 50px 75px 100px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+}
+
+.section{
+    margin: 25px 50px 75px;
+    background-color: aqua;
+    border: 2px solid gray;
+}
+
+.article{
+    margin: 25px 50px;
+    background-color: brown;
+    border: 3px solid greenyellow;
+}
+
+.footer{
+    border: 1px solid red;
+    width: 300px;
+    margin: auto;
+}
